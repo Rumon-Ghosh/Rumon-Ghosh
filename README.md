@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co/Y75NHz8G/Chat-GPT-Image-Nov-18-2025-11-35-58-PM.png)
 
 <h1 align="center">Hi 👋, I'm Rumon Ghosh</h1>
-<h3 align="center">A passionate Frontend Developer and learning-minded coder.</h3>
+<h3 align="center">A passionate MERN STACK Developer and learning-minded coder.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rumon-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="rumon-ghosh" />
@@ -18,7 +18,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 
 ## 🔥 Current Activities  
 - 🌱 Currently learning: **Express.js, MongoDB & Next.js**  
-- 💻 Working on: A **Tourism Website**  
+- 💻 Working on: A **Ride Sharing Website**  
 - 🚀 Exploring: Full Stack Development  
 - 💬 Ask me about: **React.js, JavaScript, Firebase**
 
@@ -38,7 +38,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 </p>
 
 📫 **Reach me at:** **rumon698@gmail.com**  
-📍 **Location:** Bangladesh  
+📍 **Location:** Cumilla, Bangladesh  
 
 ---
 
@@ -79,19 +79,6 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rumon-ghosh&theme=tokyonight" />
 </p>
-
----
-
-## 📌 Pinned Repositories  
-⚠ Make sure you pin at least **3 repositories** and update each with:
-
-- ✔ Overview  
-- ✔ Live link  
-- ✔ Tech stack  
-- ✔ Screenshot  
-- ✔ Main features  
-- ✔ Dependencies  
-- ✔ Local setup guide  
 
 ---
 
