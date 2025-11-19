@@ -1,5 +1,5 @@
 <!-- 🔥 Banner -->
-![Banner](https://i.ibb.co/Y75NHz8G/Chat-GPT-Image-Nov-18-2025-11-35-58-PM.png)
+![Banner](./banner_2.png)
 
 <h1 align="center">Hi 👋, I'm Rumon Ghosh</h1>
 <h3 align="center">A passionate MERN STACK Developer and learning-minded coder.</h3>
@@ -38,7 +38,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 </p>
 
 📫 **Reach me at:** **rumon698@gmail.com**  
-📍 **Location:** Cumilla, Bangladesh  
+📍 **Location:** Cumilla, Chattogram, Bangladesh  
 
 ---
 
