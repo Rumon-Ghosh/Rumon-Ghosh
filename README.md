@@ -2,16 +2,12 @@
 ![Banner](./banner_2.png)
 
 <h1 align="center">Hi 👋, I'm Rumon Ghosh</h1>
-<h3 align="center">A passionate MERN STACK Developer and learning-minded coder.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rumon-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="rumon-ghosh" />
-</p>
+<h3 align="center">A passionate MERN-Stack Developer and learning-minded coder.</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate **Frontend Developer** focused on building responsive and user-friendly web applications.  
+I'm a passionate **MERN-Stack Developer** focused on building responsive and user-friendly web applications.  
 Currently, I’m also learning backend technologies to become a **Full Stack Developer** soon.
 
 ---
@@ -79,6 +75,10 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rumon-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="rumon-ghosh" />
+</p>
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to connect — always open for collaboration!
