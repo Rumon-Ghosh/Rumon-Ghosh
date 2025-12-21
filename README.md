@@ -59,7 +59,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 
 ## 🏆 GitHub Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rumon-ghosh" alt="rumon-ghosh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rumon-ghosh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
