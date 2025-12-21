@@ -1,5 +1,5 @@
 <!-- 🔥 Banner -->
-![Banner](./banner_2.png)
+![Banner](./lingedin_banner.png)
 
 <h1 align="center">Hi 👋, I'm Rumon Ghosh</h1>
 <h3 align="center">A passionate MERN-Stack Developer and learning-minded coder.</h3>
