@@ -57,37 +57,6 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 | <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |
 
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rumon-ghosh&theme=tokyonight&no-frame=true&margin-w=15&cache_seconds=1800" 
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rumon-ghosh&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumon-ghosh&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    height="160"
-  />
-</p>
-
----
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rumon-ghosh&theme=tokyonight&cache_seconds=1800" 
-  />
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=rumon-ghosh&label=Profile%20views" />
 
 
