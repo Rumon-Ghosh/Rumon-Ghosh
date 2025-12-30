@@ -23,7 +23,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rumonghosh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/rumon13664" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
