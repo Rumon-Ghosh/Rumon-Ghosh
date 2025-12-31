@@ -41,6 +41,13 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 
 ---
 
+#### GitHub stats 
+<a href="https://github.com/Rumon-Ghosh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Rumon-Ghosh.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+---
+
 ## 🛠 Languages & Tools
 
 | HTML | CSS | Tailwind | JavaScript |
