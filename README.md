@@ -42,7 +42,7 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 ---
 
 ## Github Stats: 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumon-Ghosh&show_icons=true)
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Rumon-Ghosh&show_icons=true)
 
 
 ## 🛠 Languages & Tools
