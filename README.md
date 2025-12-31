@@ -41,6 +41,9 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 
 ---
 
+## Github Stats: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumon-Ghosh)](https://github.com/Rumon-Ghosh/github-readme-stats)
+
 ## 🛠 Languages & Tools
 
 | HTML | CSS | Tailwind | JavaScript |
