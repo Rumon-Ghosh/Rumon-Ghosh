@@ -66,6 +66,9 @@ Currently, I’m also learning backend technologies to become a **Full Stack Dev
 
 <img src="https://komarev.com/ghpvc/?username=rumon-ghosh&label=Profile%20views" />
 
+# Overview:
+![Metrics](https://metrics.lecoq.io/Rumon-Ghosh)
+
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to connect — always open for collaboration!
